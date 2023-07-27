@@ -1,0 +1,2 @@
+# the command line used to update README.md in the main branch
+git pull origin main
